@@ -3,7 +3,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/DataForScience/PyGotham2021)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DataForScience/PyGotham2021)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DataForScience/PyGotham2021)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/PyGotham2021/master)
 
 
 [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
@@ -14,9 +13,21 @@
 
 Repository to accompany the substack [__Graphs For Data Science__](https://graphs4sci.substack.com/subscribe)
 
-All the code is runnable in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DataForScience/PyGotham2021/master) and each blog post corresponds to a diferent notebook
+* Graphs 101 [ Airline Transportation Network ] 
+    * Nodes
+    * Edges
+    * Degrees and Weights
+    * Directed and Undirected Graphs
+* Searching in Graphs [ OpenStreetMap ]
+    * Breath First Search
+    * Depth First Search
+    * Dijkstra's Algorithm
+* Graph Connectivity [ BitCoin Transaction Network ]
+    * Weakly Connected Graphs
+    * Strongly Connected Graphs
 
 
+Datasets in square parenthesis.
 
 Subscribe to the __Graphs For Data Science__ [![Substack](https://img.shields.io/badge/Substack-Subscribe-blue)](https://graphs4sci.substack.com/subscribe)
  and never miss a post!
